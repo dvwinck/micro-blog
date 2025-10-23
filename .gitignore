@@ -137,3 +137,11 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+
+# running
+back/microblog.db
+back/microblog.db-shm
+back/microblog.db-wal
+back/package-lock.json
+front/package-lock.json
